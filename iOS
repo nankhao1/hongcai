@@ -1,0 +1,11 @@
+{
+    "updateUrl":"https://download.weilaiyule.top/hongcai/install.html",
+    "domainUrl":"http://mobile.huojia8.cn",
+    "versions":
+    [
+        {
+            "version":1000,
+            "status":"release"
+        }
+    ]
+}
