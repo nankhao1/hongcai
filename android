@@ -1,0 +1,11 @@
+{
+    "updateUrl":"http://hc1.huojia8.cn/hongcai.apk",
+    "domainUrl":"http://mobile.huojia8.cn",
+    "versions":
+    [
+        {
+            "version":1000,
+            "status":"release"
+        }
+    ]
+}
