@@ -6,7 +6,8 @@
         {
             "version":1000,
             "status":"release"
-        },{
+        },
+        {
             "version":1001,
             "status":"release"
         }
