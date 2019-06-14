@@ -18,6 +18,10 @@
         {
             "version":1003,
             "status":"release"
+        },
+        {
+            "version":1004,
+            "status":"release"
         }
     ]
 }
